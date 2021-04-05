@@ -34,6 +34,7 @@ public class Secondclass {
 		//////////////////////////////
 		System.out.println("git branched");
 		System.out.println("git branched completed by Y");
+		System.out.println("git branched completed by x");
 	}
 
 }
