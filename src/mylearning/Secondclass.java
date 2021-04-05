@@ -28,8 +28,8 @@ public class Secondclass {
 		System.out.println(arr[1]);
 		System.out.println(a.replace("t", "s"));
 		System.out.println("git test");
-
-
+		System.out.println("git test2");
+		System.out.println("git test3");
 	}
 
 }
