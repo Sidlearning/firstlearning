@@ -24,6 +24,8 @@ public class Firststep {
 	 //(//[@text()='value'] - xpath for text
 	 // tagName[attribute ='value')] - css syntax, tagName#id, tagName.classname
 	 // tagName[attribute* ='value')] - css for regular expression
+	 //amazon site example => $x(".//h2[contains(.,'most loved styles')]/parent::div/following-sibling::div/descendant::li[@aria-posinset='2']/span/a")
+	
 	}
 	
 
