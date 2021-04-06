@@ -24,9 +24,7 @@ public class SelectDemo {
 	dropdown.selectByValue("AED");
 	System.out.println(dropdown.getFirstSelectedOption().getText());
 	dropdown.selectByVisibleText("INR");
-	System.out.println(dropdown.getFirstSelectedOption().getText());
-	
-	
+	System.out.println(dropdown.getFirstSelectedOption().getText());	
 
 	}
 
